@@ -1,0 +1,26 @@
+{
+  "name": "implementing-promises-from-scratch",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Implementing promises from scratch in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "promises-aplus-tests adapter.js",
+    "lint": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauriciopoppe/implementing-promises-from-scratch.git"
+  },
+  "keywords": ["promises", "scratch"],
+  "author": "Mauricio Poppe <mauricio.poppe@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mauriciopoppe/implementing-promises-from-scratch/issues"
+  },
+  "homepage": "https://github.com/mauriciopoppe/implementing-promises-from-scratch#readme",
+  "devDependencies": {
+    "promises-aplus-tests": "^2.1.2",
+    "standard": "^10.0.3"
+  }
+}
